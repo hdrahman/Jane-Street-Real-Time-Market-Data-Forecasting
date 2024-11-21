@@ -4,5 +4,6 @@ Preclip data:
 
 post clip data:
 
-![image](https://github.com/user-attachments/assets/c2a9b300-a2f9-46d9-bc47-3aada07155b1)
+![image](https://github.com/user-attachments/assets/dc22eb23-44f0-4cc6-8c96-824af6a0f582)
+
 
