@@ -7,3 +7,6 @@ post clip data:
 ![image](https://github.com/user-attachments/assets/dc22eb23-44f0-4cc6-8c96-824af6a0f582)
 
 
+post scaling data:
+
+![image](https://github.com/user-attachments/assets/7964f208-1577-4b09-9d42-df5b638c99ff)
