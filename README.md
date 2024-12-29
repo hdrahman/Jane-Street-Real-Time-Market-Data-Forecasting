@@ -17,6 +17,10 @@ R² between feature_00 and feature_02: 0.8924
 Mean: -0.0000, Std Dev: 0.0679
 ![image](https://github.com/user-attachments/assets/2e8f05fa-2e32-42f2-a036-9dc64c604b97)
 ![image](https://github.com/user-attachments/assets/dbd6e39c-b496-4a20-bd3e-9eb5ac891b83)
+
+final cleaned data:
+![image](https://github.com/user-attachments/assets/cd6aded8-419e-4adc-84a3-0e3c86709a2e)
+
 ![image](https://github.com/user-attachments/assets/9fcf2712-d0a7-4964-87eb-6fa786cf8674)
 
 
