@@ -32,12 +32,16 @@ initial R-score(self determined):
 R-Score using only top relevant features:
 
 20: 0.8409
+
 25: 0.8426
+
 30: 0.8397
+
 35: 0.8349
+
 40: 0.8386
 
-Then, I used Binary search to find the actual max: 
+Then, I used Binary search to find the max with 23 op features and R score fo 0.8432. 
 
 correlation filtered(0.1):
 
