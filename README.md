@@ -37,4 +37,7 @@ R-Score using only top 10 most relevant features:
 
 ![image](https://github.com/user-attachments/assets/d32d1c5e-160d-4d72-9318-586ef5f1a9e7)
 
+20 most relevant features:
+
+![image](https://github.com/user-attachments/assets/fc14e4aa-cbb9-4024-a484-b2a98b5201dd)
 
