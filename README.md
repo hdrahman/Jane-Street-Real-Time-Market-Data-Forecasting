@@ -27,6 +27,8 @@ Top important features: [('responder_3', 108.0), ('responder_0', 80.0), ('respon
 
 initial R-score(self determined):
 ![image](https://github.com/user-attachments/assets/a928aea6-1c6a-4ec5-a0f3-25acff94333e)
+R-Score using only top 10 most relevant features:
+![image](https://github.com/user-attachments/assets/9ceaa4cc-a429-4ab7-a50c-64acb3907b16)
 
 
 
