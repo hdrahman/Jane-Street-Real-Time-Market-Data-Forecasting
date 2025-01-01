@@ -47,7 +47,7 @@ R-Score using only top relevant features:
 
 ![image](https://github.com/user-attachments/assets/e8420bd8-8557-4a84-b323-9c3851e076c8)
 
-![image](https://github.com/user-attachments/assets/3d6ab8d4-ffc1-4a5d-8d72-01af9fde87b3)
+![image](https://github.com/user-attachments/assets/e33498f4-9962-4d58-a9b6-f8ee543bd869)
 
 
 correlation filtered(0.1):
