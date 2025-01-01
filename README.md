@@ -26,10 +26,15 @@ top 10 important features determined by xgboost:
 Top important features: [('responder_3', 108.0), ('responder_0', 80.0), ('responder_7', 33.0), ('responder_5', 20.0), ('responder_8', 18.0), ('responder_4', 13.0), ('feature_24', 11.0), ('feature_24_lag_1', 10.0), ('weight', 7.0), ('responder_2', 7.0)]
 
 initial R-score(self determined):
+
 ![image](https://github.com/user-attachments/assets/a928aea6-1c6a-4ec5-a0f3-25acff94333e)
 
 R-Score using only top 10 most relevant features:
+
 ![image](https://github.com/user-attachments/assets/9ceaa4cc-a429-4ab7-a50c-64acb3907b16)
 
+15 most relevant features: 
+
+![image](https://github.com/user-attachments/assets/d32d1c5e-160d-4d72-9318-586ef5f1a9e7)
 
 
