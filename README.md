@@ -22,6 +22,8 @@ Mean: -0.0000, Std Dev: 0.0679
 final cleaned data:
 ![image](https://github.com/user-attachments/assets/cd6aded8-419e-4adc-84a3-0e3c86709a2e)
 
+initial R-score(self determined)
+
 top 10 important features determined by xgboost:
 Top important features: [('responder_3', 108.0), ('responder_0', 80.0), ('responder_7', 33.0), ('responder_5', 20.0), ('responder_8', 18.0), ('responder_4', 13.0), ('feature_24', 11.0), ('feature_24_lag_1', 10.0), ('weight', 7.0), ('responder_2', 7.0)]
 
