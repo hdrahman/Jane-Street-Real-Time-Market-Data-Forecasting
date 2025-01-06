@@ -9,7 +9,8 @@ post clip data:
 
 post scaling data:
 
-![image](https://github.com/user-attachments/assets/7964f208-1577-4b09-9d42-df5b638c99ff)
+![image](https://github.com/user-attachments/assets/5b0c3276-71ae-4bc7-8afc-d9c6915eac97)
+
 
 
 Analyzing pair: feature_00 and feature_02
@@ -52,6 +53,6 @@ correlation filtered(0.3):
 
 ![image](https://github.com/user-attachments/assets/eaebeffe-94a2-4389-afc5-817429ae9cf4)
 
-result of general Optuna tuning(50 trials): 
-Best is trial 3 with value: -0.6165406107902527. -
-Trial 3 finished with value: -0.6165406107902527 and parameters: {'learning_rate': 0.28787335425259036, 'max_depth': 9, 'min_child_weight': 2, 'subsample': 0.9933216954241114, 'colsample_bytree': 0.908371661987398}.
+result of general Optuna tuning(100 trials): 
+![image](https://github.com/user-attachments/assets/a7f4e092-edec-48dc-a6d2-8b502a6092ed)
+
