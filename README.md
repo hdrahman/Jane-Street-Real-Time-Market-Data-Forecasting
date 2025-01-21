@@ -30,9 +30,89 @@ This repository implements the following models:
 3. [**XGBoost:**](./xgboost/README.md) Gradient-boosted trees optimized with hyperparameter tuning.
 4. [**TFT:**](./tft/README.md) Advanced transformer model for time-series prediction.
 
-Refer to the individual READMEs for detailed descriptions of each model.
+
+---
+
+### **2. Autoencoder README**
+
+# Autoencoder for Dimensionality Reduction
+
+## Overview
+The Autoencoder is used for unsupervised dimensionality reduction. It learns a compressed representation of input features and reconstructs them with minimal loss.
+
+## Implementation
+Key steps:
+1. Preprocessed features using lagged values and normalized them.
+2. Designed a deep Autoencoder architecture using PyTorch.
+3. Trained the model to minimize reconstruction loss.
+
+## Code Example
+```python
+# Define Autoencoder architecture
+class Autoencoder(nn.Module):
+    def __init__(self):
+        super().__init__()
+        self.encoder = nn.Sequential(...)
+        self.decoder = nn.Sequential(...)
+        
+    def forward(self, x):
+        encoded = self.encoder(x)
+        decoded = self.decoder(encoded)
+        return decoded
+```
 
 
+---
+
+### **3. MLP README**
+
+```markdown
+# Multi-Layer Perceptron (MLP)
+
+## Overview
+A fully connected feedforward neural network for supervised learning on the Jane Street dataset.
+
+## Implementation
+- Input features were selected using feature engineering.
+- Applied MinMax scaling to normalize data.
+- Designed a 3-layer MLP architecture optimized with dropout and ReLU activation.
+
+## Training
+```python
+# Define MLP
+model = nn.Sequential(
+    nn.Linear(input_dim, 128),
+    nn.ReLU(),
+    nn.Dropout(0.2),
+    nn.Linear(128, 64),
+    nn.ReLU(),
+    nn.Linear(64, 1),
+)
+```
+
+
+---
+
+### **4. XGBoost README**
+**Filename:** `xgboost/README.md`
+```markdown
+# XGBoost Model
+
+## Overview
+Gradient-boosted decision trees were implemented using XGBoost for supervised regression. This model incorporates extensive hyperparameter tuning and feature engineering.
+
+## Implementation
+Key highlights:
+- Top 23 features were selected based on correlation with the target variable.
+- Applied MinMax scaling for normalization.
+- Hyperparameter optimization was performed using Optuna and RandomizedSearchCV.
+
+## Training Logs
+```text
+[0]	train-rmse:0.79647	valid-rmse:0.70635
+[1]	train-rmse:0.73464	valid-rmse:0.65294
+[2]	train-rmse:0.68022	valid-rmse:0.60692
+```
 
 
 
