@@ -33,6 +33,9 @@ This repository implements the following models:
 Refer to the individual READMEs for detailed descriptions of each model.
 
 
+
+**Below you will find screenshots that I periodically took of my data cleaning/ model training steps**
+
 Preclip data:
 ![image](https://github.com/user-attachments/assets/29af177b-e6c1-4bc8-b7e1-3638b9598a95)
 ![image](https://github.com/user-attachments/assets/91ecae4c-b8bf-4951-8cb5-26d9077c1bd3)
