@@ -34,7 +34,12 @@ Refer to the individual READMEs for detailed descriptions of each model.
 
 
 
-**Below you will find screenshots that I periodically took of my data cleaning/ model training steps**
+
+##Below you will find screenshots that I periodically took of my data cleaning/ model training steps
+
+
+
+
 
 Preclip data:
 ![image](https://github.com/user-attachments/assets/29af177b-e6c1-4bc8-b7e1-3638b9598a95)
