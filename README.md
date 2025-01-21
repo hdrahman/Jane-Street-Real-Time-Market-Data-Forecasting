@@ -10,8 +10,6 @@ This repository contains the implementation of multiple machine learning models 
   - [MLP](./mlp/README.md)
   - [XGBoost](./xgboost/README.md)
   - [TFT](./tft/README.md)
-- [Installation](#installation)
-- [Dataset](#dataset)
 - [Results](#results)
 
 ## Project Overview
