@@ -35,7 +35,12 @@ Refer to the individual READMEs for detailed descriptions of each model.
 
 
 
-##Below you will find screenshots that I periodically took of my data cleaning/ model training steps
+
+
+## Below you will find screenshots that I periodically took of my data cleaning/ model training steps
+
+
+
 
 
 
